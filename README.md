@@ -1,1 +1,1 @@
-# pyschotic-optimist.github.io
+# psychotic-optimist.github.io
